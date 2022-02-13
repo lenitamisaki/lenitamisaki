@@ -1,4 +1,4 @@
-### Hi there! Lenita here!!! 👋
+### Hi there! _Lenita_ here!!! 👋
 
 <!--
 **lenitamisaki/lenitamisaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
